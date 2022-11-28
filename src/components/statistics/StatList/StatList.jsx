@@ -11,13 +11,11 @@ export const StatList = ({ item }) => {
         key={i.id}
         label={i.label}
         percentage={i.percentage}
-        style={BackgroundColor}
       />
       
     ))}</StatListStyled>)
 }
 
-const BackgroundColor = null;
 
 
 
