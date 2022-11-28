@@ -17,9 +17,7 @@ export const StatList = ({ item }) => {
     ))}</StatListStyled>)
 }
 
-const BackgroundColor = {
-    backgroundColor: `#${Math.floor(Math.random() * 16777215).toString(16)}`
-}
+const BackgroundColor = null;
 
 
 

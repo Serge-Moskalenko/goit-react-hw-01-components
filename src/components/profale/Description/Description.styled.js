@@ -1,7 +1,6 @@
 import styled from "@emotion/styled";
 
 export const StyledDescription = styled.div`
-margin:${p => p.theme.space[0]};
 padding:${p => p.theme.space[0]};
 background-color:${p => p.theme.colors.white};
 display:flex;
